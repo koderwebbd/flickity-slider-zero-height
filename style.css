@@ -1,1 +1,4 @@
-
+/*flickity-slider inner items slider height should be auto*/
+.slider_items {
+  height: auto;
+}
